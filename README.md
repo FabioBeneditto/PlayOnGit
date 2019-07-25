@@ -501,4 +501,3 @@ flatpak install flathub com.albiononline.AlbionOnline
 
 flatpak run com.albiononline.AlbionOnline
 ```
-
